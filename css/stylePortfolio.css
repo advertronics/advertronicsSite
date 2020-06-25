@@ -1,0 +1,158 @@
+/*html, body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.68rem;
+    scrollbar-arrow-color: #b30000;
+    
+  }
+
+  
+#portfolioNav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center!important;
+    background-color: black;
+    
+      padding: 2% 3%;
+     /* min-height: 60px; */
+    /*  position: fixed; 
+      top: 0;
+      right: 0;
+      left: 0;
+      z-index:10;
+     
+      
+}
+
+#portfolioNav #brandingPortfolio{
+    display:flex;
+    align-items: center;
+}
+
+
+#portfolioNav .portfolioNavItems{
+    display: flex;
+    height: 40px;
+    
+   
+    
+    align-items: center;
+    margin: 0;
+}
+
+#portfolioNav .portfolioNavItems a{
+    text-decoration: none;
+    color: white;
+    display: inline;
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 0 15% 0 0;
+}
+
+#portfolioNav .portfolioNavItems a:hover{
+    color:#ef4035;
+}
+
+#portfolioNav .portfolioNavItems div{
+    display:inline;
+}
+
+#portfolioNav .portfolioNavItems .current a{
+    color: #ef4035;
+    cursor: text;
+}
+
+#portfolioMain{
+    background: #e9ecef;
+    padding: 3rem 0 2rem;
+    position: relative;
+    position: relative;
+    left: 0;
+    top: 10%;
+    
+}
+
+#portfolioMain .portfolioHeader{
+    margin-top: 9%;
+}
+
+
+
+ #portfolioMain .portfolioHeader .portfolioHeading{
+    text-align: center;
+    font-size: 3rem;
+    color: #ef4035;
+}
+
+#portfolioMain .portfolioHeader .underline{
+    width: 3rem;
+    height: 0.2rem;
+    background-color: black;
+    margin:  2rem auto 2rem;
+}
+
+#portfolioMain .portfolioItems{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    overflow: hidden !important;
+    padding:0;
+    min-height:0;
+    min-width: 0;
+    margin-bottom: 3rem;
+
+}
+    
+#portfolioMain .portfolioItems .itemList{
+     overflow: hidden;
+     min-height:0;
+    min-width: 0
+    }
+
+
+#portfolioMain .portfolioItems img{
+    
+    width: 100%;
+    vertical-align: middle;
+    transition: transform 0.5s ease;
+    overflow: hidden;
+}
+
+#portfolioMain .portfolioItems img:hover{
+    transform: scale(1.1);
+    cursor:zoom-in;
+    overflow:hidden;
+    min-height:0;
+    min-width: 0;
+}
+
+@media screen and (max-width: 600px){
+
+    #portfolioNav #brandingPortfolio img{
+            width: 126px;
+            height: 26.5px;
+    }
+    #portfolioNav .portfolioNavItems a{
+        font-size: 1rem;
+        padding: 0 6% 0 0%;
+    }
+    
+    #portfolioMain .portfolioHeader .underline{
+        
+        margin:  1rem auto 1rem;
+    }
+    
+    #portfolioMain .portfolioHeader .portfolioHeading {
+        font-size: 1.5rem;
+    }
+
+    #portfolioMain .portfolioItems{
+        grid-template-columns: 1fr;
+    }
+
+} */
+
