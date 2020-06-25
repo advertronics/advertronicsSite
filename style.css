@@ -277,7 +277,7 @@ nav #navMain input {
     width: 100%;
     height: 26px;
     padding-right: 30px;
-    background-image: url("../img/searchIcon.png");
+    background-image: url("../searchIcon.png");
     background-repeat: no-repeat;
     background-position: 210px 3px;
 }
@@ -285,7 +285,7 @@ nav #navMain input {
 .bannerMain{
     height: 70vh;
     width: 100%;
-    background-image: url("../img/banner.webp");
+    background-image: url("../banner.webp");
     background-position: fixed;
     background-size: cover;
    /* margin-top: 90px; */
